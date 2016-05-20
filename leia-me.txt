@@ -1,3 +1,4 @@
 -crie um banco chamado:php-json-bd
+-importe o arquivo php-json-bd.sql para seu mysql
 -configure o bd.php
 -e acesse a url http://localhost/php-json-bd/
