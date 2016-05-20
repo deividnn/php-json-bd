@@ -1,0 +1,3 @@
+-crie um banco chamado:php-json-bd
+-configure o bd.php
+-e acesse a url http://localhost/php-json-bd/
